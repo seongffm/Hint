@@ -1,6 +1,8 @@
 # 취준 루틴
 
 취업 준비 기록을 관리하는 웹 대시보드입니다.
+주소:
+https://chwijun-routine-auto.vercel.app?utm_source=chatgpt.com
 
 ## 기술 구성
 - 화면: `index.html`
